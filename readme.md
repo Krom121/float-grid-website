@@ -2,6 +2,11 @@
 
 The purpose of this website is to create a clean and mordern website. That is easy to use for the user.
 
+What has been built so far no media queries yet please follow link below:
+
+ https://krom121.github.io/float-grid-website/
+
+
 ## Tech used
 
 Html5
