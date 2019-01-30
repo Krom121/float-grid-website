@@ -24,6 +24,12 @@
         background-color: $btnW-bg-color;
         color: $white-btn-font-color;
     }
+
+    &--green{
+        background-color: $color-primary;
+        color: #fff;
+    }
+
 }
 
 .btn-text{
